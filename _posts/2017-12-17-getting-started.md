@@ -6,11 +6,6 @@ categories: blogging
 author: Jack Phillips
 ---
 
-My family and I are about to start a new phase in our lives which will include new jobs for us, new schools for the kids, and moving to another country. At this point in time, our next steps are largely undetermined: we have no idea what jobs we’ll have or even what city we’ll be moving to. 
-
-## Getting Started
----
-
 My family and I are about to start a new phase in our lives which will include new jobs for us, new schools for the kids, and moving to another country. At this point in time, our next steps are largely undetermined: we have no idea what jobs we’ll have or even what city we’ll be moving to. Currently, I'm a building-level school leader[^1] and have been for several years. But our move might require me to undertake a completely new line of work. I’m hoping that my CV will capture much of my skill set and experience. With so much up in the air, however, I’ve decided to take the (likely) prudent step of sharing with the interwebs some of the things I’ve been working on that aren’t so easily captured in the resume of a principal.
 
 So what kind of things, you say? Good question. I’m not completely sure to be honest, but I assume that if I stick with it, a focus will emerge. In the meantime, I’m thinking I’ll become a cliche and join the legion of middle-aged male bloggers discussing my interest in technology and productivity, particularly as it pertains to someone who works in a school. 
@@ -21,6 +16,4 @@ So with the deepest humility, I offer myself to the blogosphere. And if even a s
 
 Let’s begin.
 
----
-
-[^1]. This is just a fancy way of saying I’m a high school principal.
+[^1]: This is just a fancy way of saying I’m a high school principal.
