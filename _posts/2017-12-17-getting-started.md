@@ -2,6 +2,7 @@
 layout: post
 title: Getting Started
 date: 2017-12-17
+cover: cover.jpg
 categories: blogging
 author: Jack Phillips
 ---
